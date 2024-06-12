@@ -32,4 +32,4 @@ async def on_message(message):
     if message.content.startswith('恒指'):
         await message.channel.send(await get_data())
         #await get_data()
-client.run('ODgxNzY2NDQyMTgwMTc3OTcw.YSxm_g.0qqs22maXUzWR2WyPsXZF_YHpUA')
+client.run('Discord Bot Token')
