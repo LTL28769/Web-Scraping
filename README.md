@@ -9,4 +9,5 @@ This is the real time number of a stock on website
 DiscordBot_WebScraping.py
 This python is used in a communication apps called Discord. Basically it create a bot that quickly get the number of Hang Seng Indexes by my command.
 It can be improved to be an auto bot.
+
 ![image](https://github.com/LTL28769/Web-Scraping/assets/152255777/ace4cbcb-4755-4173-9ea7-181325140353)
